@@ -468,7 +468,9 @@ MIT License — use it, modify it, share it. See [LICENSE](LICENSE) for details.
 ---
 
 <p align="center">
-  <b>Built with ❤️ by developers who got tired of repeating themselves to AI agents.</b>
+  <b>Created by <a href="https://github.com/CyberSpartan77">CyberSpartan77</a></b>
+  <br>
+  <i>Built with ❤️ by developers who got tired of repeating themselves to AI agents.</i>
   <br><br>
   <i>If this saved you time, give it a ⭐</i>
 </p>
