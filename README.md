@@ -1,3 +1,31 @@
+<!--
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║  🧬  This project evolved into DevForge Atlas                    ║
+  ║                                                                  ║
+  ║  AgentPlaybook was the seed. The next chapter lives at           ║
+  ║  → https://github.com/DevForgeAtlas-Org                          ║
+  ║                                                                  ║
+  ║  Less setup. Less drift. More signal.                            ║
+  ╚══════════════════════════════════════════════════════════════════╝
+-->
+
+> ### 🧬 This project evolved into **[DevForge Atlas](https://github.com/DevForgeAtlas-Org)**
+>
+> AgentPlaybook was the seed — a single configuration file that turned any AI coding
+> agent into a senior development partner. What started here grew into something bigger:
+> a **quieter, sharper set of tools** for developers who want their AI to *actually*
+> show up prepared.
+>
+> 👉 **[Visit DevForgeAtlas →](https://github.com/DevForgeAtlas-Org)** — *Less setup. Less drift. More signal.*
+>
+> ---
+>
+> **This repo is preserved as origin history and remains fully usable.** If the
+> playbook below is all you need, drop `CLAUDE.md` into your project and go.
+> If you want the next level — that's at DevForgeAtlas.
+
+---
+
 # 🤖 CLAUDE.md — Universal Development Agent Configuration
 
 > **One file. Any project. Full dev pipeline management.**
