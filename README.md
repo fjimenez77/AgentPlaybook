@@ -18,6 +18,10 @@
 > **This repo is preserved as origin history and remains fully usable.** If the
 > playbook below is all you need, drop `CLAUDE.md` into your project and go.
 > If you want the next level — that's at DevForgeAtlas.
+>
+> 🗓️ **Scheduled to archive in 2027** — the playbook will remain accessible
+> (public, read-only) as origin history. If you depend on it, mirror or fork
+> your own copy before then.
 
 ---
 
