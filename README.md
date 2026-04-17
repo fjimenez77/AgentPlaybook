@@ -1,13 +1,8 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  🧬  This project evolved into DevForge Atlas                    ║
-  ║                                                                  ║
-  ║  AgentPlaybook was the seed. The next chapter lives at           ║
-  ║  → https://github.com/DevForgeAtlas-Org                          ║
-  ║                                                                  ║
-  ║  Less setup. Less drift. More signal.                            ║
-  ╚══════════════════════════════════════════════════════════════════╝
--->
+<p align="center">
+  <a href="https://github.com/DevForgeAtlas-Org">
+    <img src="assets/social-banner.png" alt="AgentPlaybook → DevForge Atlas — The seed of something bigger. Less setup. Less drift. More signal." width="100%">
+  </a>
+</p>
 
 > ### 🧬 This project evolved into **[DevForge Atlas](https://github.com/DevForgeAtlas-Org)**
 >
@@ -491,7 +486,12 @@ This is an evolving system. Ideas for improvement are welcome:
 
 ## 📄 License
 
-MIT License — use it, modify it, share it. See [LICENSE](LICENSE) for details.
+Apache License 2.0 — see [LICENSE](LICENSE) and [NOTICE](NOTICE) for details.
+
+> Originally released under MIT. Relicensed to Apache 2.0 on 2026-04-17 as part
+> of the archive, for patent grant + trademark disclaimer coverage. Anyone who
+> forked or used the repo under MIT retains their MIT-licensed copy of that
+> earlier state.
 
 ---
 
